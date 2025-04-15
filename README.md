@@ -15,5 +15,5 @@ The analysis is structured around three core objectives:
 
 This project demonstrates how data analysis can be applied to optimize restaurant operations, refine menu offerings, and better understand customer behavior, all through structured SQL querying and interpretation.
 
-VIEW PROJECT HERE: (HERE)[https://mavenanalytics.io/project/30934]
+VIEW PROJECT HERE: [HERE](https://mavenanalytics.io/project/30934)
 ---
